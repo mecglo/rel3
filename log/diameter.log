@@ -1,0 +1,152 @@
+2024-02-11 22:49:01,970 	 INFO 	 {D:\Python Projects\pyhss-master-old\diameter.py:28} 	 Initialised Diameter Logger, importing database
+Initialised Diameter Logger, importing database
+2024-02-11 22:49:06,678 	 INFO 	 {D:\Python Projects\pyhss-master-old\diameter.py:30} 	 Imported database
+Imported database
+2024-02-11 22:50:51,465 	 INFO 	 {D:\Python Projects\pyhss-master-old\diameter.py:223} 	 Initialized Diameter for hss01 at Realm epc.mnc001.mcc001.3gppnetwork.org serving as Product Name PyHSS-client
+Initialized Diameter for hss01 at Realm epc.mnc001.mcc001.3gppnetwork.org serving as Product Name PyHSS-client
+2024-02-11 22:50:51,954 	 INFO 	 {D:\Python Projects\pyhss-master-old\diameter.py:224} 	 PLMN is 01/001
+PLMN is 01/001
+2024-02-11 23:01:19,619 	 INFO 	 {D:\Python Projects\pyhss-master-old\diameter.py:29} 	 Initialised Diameter Logger, importing database
+Initialised Diameter Logger, importing database
+2024-02-11 23:01:20,815 	 INFO 	 {D:\Python Projects\pyhss-master-old\diameter.py:31} 	 Imported database
+Imported database
+2024-02-11 23:04:10,443 	 INFO 	 {D:\Python Projects\pyhss-master-old\diameter.py:29} 	 Initialised Diameter Logger, importing database
+Initialised Diameter Logger, importing database
+2024-02-11 23:04:11,650 	 INFO 	 {D:\Python Projects\pyhss-master-old\diameter.py:31} 	 Imported database
+Imported database
+2024-02-11 23:04:43,541 	 INFO 	 {D:\Python Projects\pyhss-master-old\diameter.py:29} 	 Initialised Diameter Logger, importing database
+Initialised Diameter Logger, importing database
+2024-02-11 23:04:44,295 	 INFO 	 {D:\Python Projects\pyhss-master-old\diameter.py:31} 	 Imported database
+Imported database
+2024-02-11 23:05:29,594 	 INFO 	 {D:\Python Projects\pyhss-master-old\diameter.py:224} 	 Initialized Diameter for mme.epc.tp.com at Realm epc.mnc060.mcc401.3gppnetwork.org serving as Product Name PyHSS-client
+Initialized Diameter for mme.epc.tp.com at Realm epc.mnc060.mcc401.3gppnetwork.org serving as Product Name PyHSS-client
+2024-02-11 23:05:29,594 	 INFO 	 {D:\Python Projects\pyhss-master-old\diameter.py:225} 	 PLMN is 01/001
+PLMN is 01/001
+2024-02-13 23:03:34,831 	 INFO 	 {D:\Python Projects\pyhss-master-old\diameter.py:29} 	 Initialised Diameter Logger, importing database
+Initialised Diameter Logger, importing database
+2024-02-13 23:03:36,491 	 INFO 	 {D:\Python Projects\pyhss-master-old\diameter.py:31} 	 Imported database
+Imported database
+2024-02-16 22:00:57,284 	 INFO 	 {D:\Python Projects\pyhss-master-old\diameter.py:29} 	 Initialised Diameter Logger, importing database
+Initialised Diameter Logger, importing database
+2024-02-16 22:00:58,744 	 INFO 	 {D:\Python Projects\pyhss-master-old\diameter.py:31} 	 Imported database
+Imported database
+2024-02-16 22:01:39,197 	 INFO 	 {D:\Python Projects\pyhss-master-old\diameter.py:224} 	 Initialized Diameter for mme.epc.tp.com at Realm epc.mnc060.mcc401.3gppnetwork.org serving as Product Name PyHSS-client
+Initialized Diameter for mme.epc.tp.com at Realm epc.mnc060.mcc401.3gppnetwork.org serving as Product Name PyHSS-client
+2024-02-16 22:01:39,198 	 INFO 	 {D:\Python Projects\pyhss-master-old\diameter.py:225} 	 PLMN is 01/001
+PLMN is 01/001
+2024-02-16 22:02:48,046 	 INFO 	 {D:\Python Projects\pyhss-master-old\diameter.py:29} 	 Initialised Diameter Logger, importing database
+Initialised Diameter Logger, importing database
+2024-02-16 22:02:49,311 	 INFO 	 {D:\Python Projects\pyhss-master-old\diameter.py:31} 	 Imported database
+Imported database
+2024-02-16 22:03:28,607 	 INFO 	 {D:\Python Projects\pyhss-master-old\diameter.py:29} 	 Initialised Diameter Logger, importing database
+Initialised Diameter Logger, importing database
+2024-02-16 22:03:30,053 	 INFO 	 {D:\Python Projects\pyhss-master-old\diameter.py:31} 	 Imported database
+Imported database
+2024-02-16 22:03:41,543 	 INFO 	 {D:\Python Projects\pyhss-master-old\diameter.py:224} 	 Initialized Diameter for mme.epc.tp.com at Realm epc.mnc060.mcc401.3gppnetwork.org serving as Product Name PyHSS-client
+Initialized Diameter for mme.epc.tp.com at Realm epc.mnc060.mcc401.3gppnetwork.org serving as Product Name PyHSS-client
+2024-02-16 22:03:41,544 	 INFO 	 {D:\Python Projects\pyhss-master-old\diameter.py:225} 	 PLMN is 01/001
+PLMN is 01/001
+2024-02-18 11:24:24,430 	 INFO 	 {D:\Python Projects\pyhss-master-old\diameter.py:29} 	 Initialised Diameter Logger, importing database
+Initialised Diameter Logger, importing database
+2024-02-18 11:24:25,913 	 INFO 	 {D:\Python Projects\pyhss-master-old\diameter.py:31} 	 Imported database
+Imported database
+2024-02-18 11:29:32,593 	 INFO 	 {D:\Python Projects\pyhss-master-old\diameter.py:29} 	 Initialised Diameter Logger, importing database
+Initialised Diameter Logger, importing database
+2024-02-18 11:29:33,845 	 INFO 	 {D:\Python Projects\pyhss-master-old\diameter.py:31} 	 Imported database
+Imported database
+2024-02-18 11:33:44,328 	 INFO 	 {D:\Python Projects\pyhss-master-old\diameter.py:224} 	 Initialized Diameter for ISBGMLCMG.epc.mnc006.mcc410.3gppnetwork.org at Realm epc.mnc006.mcc410.3gppnetwork.org serving as Product Name PyHSS-client
+Initialized Diameter for ISBGMLCMG.epc.mnc006.mcc410.3gppnetwork.org at Realm epc.mnc006.mcc410.3gppnetwork.org serving as Product Name PyHSS-client
+2024-02-18 11:33:44,328 	 INFO 	 {D:\Python Projects\pyhss-master-old\diameter.py:225} 	 PLMN is 06/410
+PLMN is 06/410
+2024-02-18 18:15:36,797 	 INFO 	 {D:\Python Projects\pyhss-master-old\diameter.py:29} 	 Initialised Diameter Logger, importing database
+Initialised Diameter Logger, importing database
+2024-02-18 18:15:38,613 	 INFO 	 {D:\Python Projects\pyhss-master-old\diameter.py:31} 	 Imported database
+Imported database
+2024-02-18 18:15:40,359 	 INFO 	 {D:\Python Projects\pyhss-master-old\diameter.py:224} 	 Initialized Diameter for ISBGMLCMG.epc.mnc006.mcc410.3gppnetwork.org at Realm epc.mnc006.mcc410.3gppnetwork.org serving as Product Name PyHSS-client
+Initialized Diameter for ISBGMLCMG.epc.mnc006.mcc410.3gppnetwork.org at Realm epc.mnc006.mcc410.3gppnetwork.org serving as Product Name PyHSS-client
+2024-02-18 18:15:40,360 	 INFO 	 {D:\Python Projects\pyhss-master-old\diameter.py:225} 	 PLMN is 06/410
+PLMN is 06/410
+2024-02-18 18:16:07,329 	 INFO 	 {D:\Python Projects\pyhss-master-old\diameter.py:29} 	 Initialised Diameter Logger, importing database
+Initialised Diameter Logger, importing database
+2024-02-18 18:16:09,182 	 INFO 	 {D:\Python Projects\pyhss-master-old\diameter.py:31} 	 Imported database
+Imported database
+2024-02-18 18:16:49,271 	 INFO 	 {D:\Python Projects\pyhss-master-old\diameter.py:224} 	 Initialized Diameter for ISBGMLCMG.epc.mnc006.mcc410.3gppnetwork.org at Realm epc.mnc006.mcc410.3gppnetwork.org serving as Product Name PyHSS-client
+Initialized Diameter for ISBGMLCMG.epc.mnc006.mcc410.3gppnetwork.org at Realm epc.mnc006.mcc410.3gppnetwork.org serving as Product Name PyHSS-client
+2024-02-18 18:16:49,272 	 INFO 	 {D:\Python Projects\pyhss-master-old\diameter.py:225} 	 PLMN is 06/410
+PLMN is 06/410
+2024-02-18 18:18:40,275 	 INFO 	 {D:\Python Projects\pyhss-master-old\diameter.py:29} 	 Initialised Diameter Logger, importing database
+Initialised Diameter Logger, importing database
+2024-02-18 18:18:41,718 	 INFO 	 {D:\Python Projects\pyhss-master-old\diameter.py:31} 	 Imported database
+Imported database
+2024-02-18 18:18:43,254 	 INFO 	 {D:\Python Projects\pyhss-master-old\diameter.py:224} 	 Initialized Diameter for ISBGMLCMG.epc.mnc006.mcc410.3gppnetwork.org at Realm epc.mnc006.mcc410.3gppnetwork.org serving as Product Name PyHSS-client
+Initialized Diameter for ISBGMLCMG.epc.mnc006.mcc410.3gppnetwork.org at Realm epc.mnc006.mcc410.3gppnetwork.org serving as Product Name PyHSS-client
+2024-02-18 18:18:43,255 	 INFO 	 {D:\Python Projects\pyhss-master-old\diameter.py:225} 	 PLMN is 06/410
+PLMN is 06/410
+2024-02-18 18:19:37,176 	 INFO 	 {D:\Python Projects\pyhss-master-old\diameter.py:29} 	 Initialised Diameter Logger, importing database
+Initialised Diameter Logger, importing database
+2024-02-18 18:19:38,425 	 INFO 	 {D:\Python Projects\pyhss-master-old\diameter.py:31} 	 Imported database
+Imported database
+2024-02-18 18:19:48,243 	 INFO 	 {D:\Python Projects\pyhss-master-old\diameter.py:224} 	 Initialized Diameter for ISBGMLCMG.epc.mnc006.mcc410.3gppnetwork.org at Realm epc.mnc006.mcc410.3gppnetwork.org serving as Product Name PyHSS-client
+Initialized Diameter for ISBGMLCMG.epc.mnc006.mcc410.3gppnetwork.org at Realm epc.mnc006.mcc410.3gppnetwork.org serving as Product Name PyHSS-client
+2024-02-18 18:19:48,244 	 INFO 	 {D:\Python Projects\pyhss-master-old\diameter.py:225} 	 PLMN is 06/410
+PLMN is 06/410
+2024-02-18 18:23:50,011 	 DEBUG 	 {D:\Python Projects\pyhss-master-old\diameter.py:264} 	 Rounded value is 20
+Rounded value is 20
+2024-02-18 18:23:50,013 	 DEBUG 	 {D:\Python Projects\pyhss-master-old\diameter.py:265} 	 Has 2 bytes of padding
+Has 2 bytes of padding
+2024-02-18 19:55:42,781 	 INFO 	 {D:\Python Projects\pyhss-master-old\diameter.py:29} 	 Initialised Diameter Logger, importing database
+Initialised Diameter Logger, importing database
+2024-02-18 19:55:44,044 	 INFO 	 {D:\Python Projects\pyhss-master-old\diameter.py:31} 	 Imported database
+Imported database
+2024-02-18 19:59:03,329 	 INFO 	 {D:\Python Projects\pyhss-master-old\diameter.py:29} 	 Initialised Diameter Logger, importing database
+Initialised Diameter Logger, importing database
+2024-02-18 19:59:04,614 	 INFO 	 {D:\Python Projects\pyhss-master-old\diameter.py:31} 	 Imported database
+Imported database
+2024-08-14 06:04:36,640 	 INFO 	 {/home/ubuntu/MG/test2-main/diameter.py:30} 	 Initialised Diameter Logger, importing database
+Initialised Diameter Logger, importing database
+2024-08-14 06:04:36,640 	 INFO 	 {/home/ubuntu/MG/test2-main/diameter.py:32} 	 Imported database
+Imported database
+2024-08-14 06:05:26,551 	 INFO 	 {/home/ubuntu/MG/test2-main/diameter.py:30} 	 Initialised Diameter Logger, importing database
+Initialised Diameter Logger, importing database
+2024-08-14 06:05:26,552 	 INFO 	 {/home/ubuntu/MG/test2-main/diameter.py:32} 	 Imported database
+Imported database
+2024-08-14 06:05:28,490 	 INFO 	 {/home/ubuntu/MG/test2-main/diameter.py:226} 	 Initialized Diameter for ISBGMLCMG.epc.mnc006.mcc410.3gppnetwork.org at Realm epc.mnc006.mcc410.3gppnetwork.org serving as Product Name mgGMLC-client
+Initialized Diameter for ISBGMLCMG.epc.mnc006.mcc410.3gppnetwork.org at Realm epc.mnc006.mcc410.3gppnetwork.org serving as Product Name mgGMLC-client
+2024-08-14 06:05:28,493 	 INFO 	 {/home/ubuntu/MG/test2-main/diameter.py:227} 	 PLMN is 06/410
+PLMN is 06/410
+2024-08-14 06:11:14,088 	 INFO 	 {/home/ubuntu/MG/test2-main/diameter.py:30} 	 Initialised Diameter Logger, importing database
+Initialised Diameter Logger, importing database
+2024-08-14 06:11:14,089 	 INFO 	 {/home/ubuntu/MG/test2-main/diameter.py:32} 	 Imported database
+Imported database
+2024-08-14 06:11:41,972 	 INFO 	 {/home/ubuntu/MG/test2-main/diameter.py:226} 	 Initialized Diameter for ISBGMLCMG.epc.mnc006.mcc410.3gppnetwork.org at Realm epc.mnc006.mcc410.3gppnetwork.org serving as Product Name mgGMLC-client
+Initialized Diameter for ISBGMLCMG.epc.mnc006.mcc410.3gppnetwork.org at Realm epc.mnc006.mcc410.3gppnetwork.org serving as Product Name mgGMLC-client
+2024-08-14 06:11:41,976 	 INFO 	 {/home/ubuntu/MG/test2-main/diameter.py:227} 	 PLMN is 06/410
+PLMN is 06/410
+2024-08-14 06:13:05,537 	 INFO 	 {/home/ubuntu/MG/test2-main/diameter.py:30} 	 Initialised Diameter Logger, importing database
+Initialised Diameter Logger, importing database
+2024-08-14 06:13:05,538 	 INFO 	 {/home/ubuntu/MG/test2-main/diameter.py:32} 	 Imported database
+Imported database
+2024-08-14 06:13:23,274 	 INFO 	 {/home/ubuntu/MG/test2-main/diameter.py:226} 	 Initialized Diameter for ISBGMLCMG.epc.mnc006.mcc410.3gppnetwork.org at Realm epc.mnc006.mcc410.3gppnetwork.org serving as Product Name mgGMLC-client
+Initialized Diameter for ISBGMLCMG.epc.mnc006.mcc410.3gppnetwork.org at Realm epc.mnc006.mcc410.3gppnetwork.org serving as Product Name mgGMLC-client
+2024-08-14 06:13:23,284 	 INFO 	 {/home/ubuntu/MG/test2-main/diameter.py:227} 	 PLMN is 06/410
+PLMN is 06/410
+2024-08-14 06:26:17,906 	 INFO 	 {/home/ubuntu/MG/test2-main/diameter.py:30} 	 Initialised Diameter Logger, importing database
+Initialised Diameter Logger, importing database
+2024-08-14 06:26:17,907 	 INFO 	 {/home/ubuntu/MG/test2-main/diameter.py:32} 	 Imported database
+Imported database
+2024-08-14 06:26:18,012 	 INFO 	 {/home/ubuntu/MG/test2-main/diameter.py:226} 	 Initialized Diameter for ISBGMLCMG.epc.mnc006.mcc410.3gppnetwork.org at Realm epc.mnc006.mcc410.3gppnetwork.org serving as Product Name mgGMLC-client
+Initialized Diameter for ISBGMLCMG.epc.mnc006.mcc410.3gppnetwork.org at Realm epc.mnc006.mcc410.3gppnetwork.org serving as Product Name mgGMLC-client
+2024-08-14 06:26:18,013 	 INFO 	 {/home/ubuntu/MG/test2-main/diameter.py:227} 	 PLMN is 06/410
+PLMN is 06/410
+2024-08-14 06:28:41,081 	 DEBUG 	 {/home/ubuntu/MG/test2-main/diameter.py:161} 	 TBCD_encode input value is None
+TBCD_encode input value is None
+2024-08-14 06:28:41,082 	 DEBUG 	 {/home/ubuntu/MG/test2-main/diameter.py:167} 	 processing bits No at position offset 0
+processing bits No at position offset 0
+2024-08-14 06:28:41,083 	 DEBUG 	 {/home/ubuntu/MG/test2-main/diameter.py:167} 	 processing bits ne at position offset 2
+processing bits ne at position offset 2
+2024-08-14 06:28:41,084 	 DEBUG 	 {/home/ubuntu/MG/test2-main/diameter.py:198} 	 TBCD_encode final output value is oNen
+TBCD_encode final output value is oNen
+2024-08-14 06:28:41,085 	 DEBUG 	 {/home/ubuntu/MG/test2-main/diameter.py:266} 	 Rounded value is 16
+Rounded value is 16
+2024-08-14 06:28:41,086 	 DEBUG 	 {/home/ubuntu/MG/test2-main/diameter.py:267} 	 Has 2 bytes of padding
+Has 2 bytes of padding
