@@ -4,16 +4,16 @@ mme:
   # Note: SCTP works but is still experimental. TCP has been load-tested and performs in a production environment.
   transport: "SCTP"
   #IP Addresses to bind on (List) - For TCP only the first IP is used, for SCTP all used for Transport (Multihomed).
-  bind_ip: ["192.168.100.64"]
+  bind_ip: ["10.13.16.50"]
 
   #Port to listen on (Same for TCP & SCTP)
   bind_port: 6000
 
   #Destination IP Addresses
-  dest_ip: "192.168.100.64"
+  dest_ip: "10.176.19.197"
 
   #GMLC Number
-  gmlc_num: "923330053125"
+  gmlc_num: "923450000263"
 
 
   #Value to populate as the OriginHost in Diameter responses
