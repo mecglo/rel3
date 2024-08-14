@@ -6,6 +6,9 @@ mme:
   #IP Addresses to bind on (List) - For TCP only the first IP is used, for SCTP all used for Transport (Multihomed).
   bind_ip: ["10.13.16.50"]
 
+  #Port to bind on locally
+  local_port: 3868
+
   #Port to listen on (Same for TCP & SCTP)
   bind_port: 6000
 
@@ -17,13 +20,13 @@ mme:
 
 
   #Value to populate as the OriginHost in Diameter responses
-  OriginHost: "ISBGMLCMG.epc.mnc006.mcc410.3gppnetwork.org"
+  OriginHost: "isbgmlcmg.epc.mnc006.mcc410.3gppnetwork.org"
 
   #Value to populate as the OriginRealm in Diameter responses
   OriginRealm: "epc.mnc006.mcc410.3gppnetwork.org"
 
   #Value to populate as the OriginHost in Diameter responses
-  DestinationHost: "isbvdra06.epc.mnc006.mcc410.3gppnetwork.org"
+  DestinationHost: "isbsps01.epc.mnc006.mcc410.3gppnetwork.org"
 
   #Value to populate as the OriginRealm in Diameter responses
   DestinationRealm: "epc.mnc006.mcc410.3gppnetwork.org"
@@ -42,10 +45,10 @@ mme:
   MNC: "06"
 
   #Enable GMLC / SLh Interface
-  SLh_enabled: False
+  SLh_enabled: True
 
   #IMSI of Test Subscriber for Unit Checks (Optional)
-  test_sub_imsi: '001021234567890'
+  test_sub_imsi: '410060003779483'
 
   #The maximum time to wait, in seconds, before disconnecting a client when no data is received.
   client_socket_timeout: 120
@@ -54,7 +57,7 @@ mme:
   client_socket_timeout: 300
 
   #The maximum time to wait, in seconds, before discarding a diameter request.
-  diameter_request_timeout: 3
+  diameter_request_timeout: 5
 
   #The amount of time, in seconds, before purging a disconnected client from the Active Diameter Peers key in redis.
   active_diameter_peers_timeout: 10
